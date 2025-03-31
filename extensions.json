@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+      "ms-python.debugpy",
+      "ms-python.python",
+      "ms-vscode.pylance",
+      "robocorp.robotframework-lsp"
+    ]
+  }
+  
